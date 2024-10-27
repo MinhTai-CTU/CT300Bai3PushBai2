@@ -4,3 +4,4 @@ function greet(name: string): string {
 
 const greeting = greet("World");
 console.log(greeting);
+// thêm xuống dòng

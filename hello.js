@@ -3,3 +3,4 @@ function greet(name) {
 }
 var greeting = greet("World");
 console.log(greeting);
+// thêm xuống dòng
